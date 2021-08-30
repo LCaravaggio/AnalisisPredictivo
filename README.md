@@ -1,4 +1,8 @@
 # Análisis Predictivo
 
-La idea de este repositorio es ir guardando todo lo que pienso me puede venir bien para el curso del ITBA. 
+Cronograma de las clases que dicté yo, con algún material de apoyo que creo puede resultar útil para las mismas. 
 
+# 11 de Agosto - APIs
+
+# 23 de Agosto - Presentación Visual
+* [Bar Cahrt Race](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bar%20Chart%20Race.ipynb)
