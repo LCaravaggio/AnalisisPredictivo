@@ -15,3 +15,7 @@ Cronograma de las clases que dicté yo, con algún material de apoyo que creo pu
 * [Curso de Deep Learning Geométrico](https://geometricdeeplearning.com/lectures/)
 * [Curso GIS](https://automating-gis-processes.github.io/CSC18/)
 * [Intro a Neo4j](https://www.youtube.com/watch?v=BcgXw06lSIo&t=807s)
+
+
+# 8 de Septiembre - Regresión lineal
+* [Ejemplo Sencillo](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Regresi%C3%B3n_Lineal.ipynb)
