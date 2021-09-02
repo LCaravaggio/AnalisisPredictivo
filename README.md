@@ -22,3 +22,4 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 * [Ejemplo Sencillo](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Regresi%C3%B3n_Lineal.ipynb)
 * [Pesos Alturas](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Pesos_alturas.ipynb)
 * [Regresión lineal en R](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Reg%20lin%20en%20R.R)
+* [Regresión lineal múltiple](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Regresi%C3%B3n_lineal_multiple.ipynb)
