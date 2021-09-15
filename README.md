@@ -16,6 +16,7 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 * [Curso de Deep Learning Geométrico](https://geometricdeeplearning.com/lectures/)
 * [Curso GIS](https://automating-gis-processes.github.io/CSC18/)
 * [Intro a Neo4j](https://www.youtube.com/watch?v=BcgXw06lSIo&t=807s)
+* [Draw Data](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Draw_Data.ipynb)
 
 
 # Regresión lineal
