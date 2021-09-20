@@ -24,3 +24,11 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 * [Regresión lineal en R](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Reg%20lin%20en%20R.R)
 * [Regresión lineal múltiple](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Regresi%C3%B3n_lineal_multiple.ipynb)
 * [Pesos Alturas](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Pesos_alturas.ipynb)
+
+# Regresión lineal
+* [Árbol como IF](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/%C3%81rbol_sencillo.ipynb)
+* [Árbol para Regresión](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/%C3%81rbol%20Regresi%C3%B3n.ipynb)
+* [Ada Boost](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Adaboost.ipynb)
+* [Bagging Tree](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bagging_Tree.ipynb)
+* [Modelos Comparados](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Modelos.ipynb)
+* 
