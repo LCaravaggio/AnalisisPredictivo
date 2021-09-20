@@ -32,3 +32,4 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 * [Ada Boost](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Adaboost.ipynb)
 * [Bagging Tree](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bagging_Tree.ipynb)
 * [Modelos Comparados](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Modelos.ipynb)
+* [Extra Trees](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Extra_Trees.ipynb)
