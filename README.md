@@ -28,6 +28,7 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 # Árboles de Decisión
 * [Árbol como IF](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/%C3%81rbol_sencillo.ipynb)
 * [Árbol para Regresión](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/%C3%81rbol%20Regresi%C3%B3n.ipynb)
+* [Árbol en R markdown](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Arboles.Rmd)
 * [Ada Boost](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Adaboost.ipynb)
 * [Bagging Tree](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bagging_Tree.ipynb)
 * [Modelos Comparados](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Modelos.ipynb)
