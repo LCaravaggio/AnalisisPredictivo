@@ -1,0 +1,234 @@
+---
+title: "Análisis Predictivo - ITBA"
+subtitle: "Árboles de decisión"
+output: 
+  html_document:
+    #css: ../style.css 
+    fig_height: 8
+    fig_width: 12
+    toc: true
+    toc_float:
+      toc_collapsed: true
+    toc_depth: 3
+    number_sections: true
+    theme: paper
+editor_options: 
+  chunk_output_type: console
+---
+
+![](logo.png){#id .class width=25% height=25%}
+
+<style type="text/css">
+body, td {
+   font-size: 16px;
+   font-family: Cambria;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+</style>
+
+```{r options, echo = FALSE}
+
+knitr::opts_chunk$set(warning = FALSE,
+                      error = FALSE,
+                      message = FALSE)
+
+``` 
+
+
+
+```{r bibliotecas}
+library(dplyr)
+library(tibble)
+library(ggplot2)
+library(rpart)
+library(rpart.plot)
+library(purrr)
+```
+
+# Introducción
+
+En este documento presentaremos algunos ejemplos de uso de Árboles de decisión para analizar las relaciones que existen en una muestra entre una variable dependiente (wage) y una serie de variables predictivas.
+
+# Carga del dataset
+
+## Carga del dataset
+
+Una forma de levantar los datos en memoria es instalando el paquete **wooldridge**. Una vez que esta instalado hay que cargar la libreria y traer el dataset con la funcion `data()`. En el chunk de abajo incluimos comentados estas lineas de codigo. En este caso levantaos el dataset como csv para evitar errores en el cargado de la libreria.
+
+```{r carga base wage1}
+# install.packages("wooldridge")
+# library(wooldridge)
+# data(wage1)
+wage1  = readr::read_csv("wage1.csv")
+
+```
+
+Si pudieron instalar bien la libreria **wooldridge**, ejecutando `?wage1()` pueden acceder a una descipcion del dataset y de sus variables. Esto no viene por default, sino que lo tenemos disponible porque la gente que armó el paquete se encargó tambien de subir esta descripción.
+
+## Selección variables para el analisis
+
+Antes de meternos en el analisis de la distribucion de las variables vamos a quedarnos con las que nos interesan para el analisis.
+
+```{r seleccion de variables}
+# selecciono un grupo de variables
+vs = c('wage', 'educ', 'exper', 'tenure', 'nonwhite', 'female',
+       'northcen', 'south', 'west')
+
+# creo un dataset nuevo con estas vars
+wage1_vs = wage1 %>% select(all_of(vs))
+
+```
+
+
+# Primeros pasos con rpart
+
+Comenzamos ajustando un árbol con los valores por default que vienen en la función rpart. Estos se pueden revisar ejecutando `?rpart`, lo que nos permite acceder a la documentación de la función. 
+
+```{r rcart}
+
+cart1 = rpart(wage ~ ., data = wage1_vs)
+
+rpart.plot(cart1)
+
+summary(cart1)
+
+```
+
+## Opciones para el gráfico
+
+Con algunos argumentos adicionales podemos agregar información al arbol. En este caso agregamos el número de observaciones en cada nodo (`extra = 1`) y el número de nodo (`nn = T`).
+
+```{r rcart plot2}
+
+rpart.plot(cart1, extra = T, nn = T)
+
+```
+
+## Análisis de parámetros del árbol
+
+Los valores por default se pueden chequear con el argumento de control de la función: 
+
+```{r rpart.control}
+args(rpart.control)
+```
+
+## Sobreajuste
+
+Si flexibilizamos un poco esos parámetros, podemos ver que el árbol se vuelve más profundo, ajustandose mucho a las particularidades de la muestra. En este primer ejemplo, vamos a reducir el parámetro `cp` (complexity parameter). Lo que el usuario está indicando con este parámetro es que se ignore cualquier partición que no mejore el ajuste en ese valor.
+
+```{r sobreajuste}
+
+rcontrol2 = rpart.control(cp = 0.001)
+
+cart2 = rpart(wage ~ ., data = wage1_vs, control = rcontrol2)
+
+rpart.plot(cart2, extra = 1)
+
+```
+
+Si además reducimos otro parámetro importante, la cantidad de observaciones mínimas para el split, el sobreajuste es todavía más profundo.
+
+```{r sobreajuste2}
+
+rcontrol3 = rpart.control(cp = 0.001, minsplit = 10)
+
+cart3 = rpart(wage ~ ., data = wage1_vs, control = rcontrol3)
+
+rpart.plot(cart3, extra = 1)
+
+```
+
+# Elección de parámetros
+
+En este caso, vamos a evaluar cuál sería el valor óptimo del parámetro `cp`. Para eso, vamos a partir primero la muestra en train, con la que vamos a ajustar el modelo, y test, en la que vamos a evaluar el ajuste para comparar distintos valores de `cp`.
+
+## Partición de la muestra
+
+Para la partición, nos quedaremos con el 70% de las observaciones en train y el 30% restante en test.
+
+```{r particion}
+
+# seteo la semilla
+set.seed(1234)
+
+# genero index para particionar
+smp_size = floor(0.70 * nrow(wage1_vs))
+train_ind = sample(1:(nrow(wage1_vs)), size = smp_size)
+length(train_ind)
+
+# muestra de entrenamiento
+wage1_train = wage1_vs[train_ind, ]
+nrow(wage1_train)
+
+# muestra de test
+wage1_test = wage1_vs[-train_ind, ]
+nrow(wage1_test)
+cart3 = rpart(wage ~ ., data = wage1_vs, control = rcontrol3)
+
+```
+
+## Cálculo del ECM
+
+Vamos a entrenar nuestro árbol utilizando la muestra train, probando distintos valores para el parámetro `cp`. Luego, vamos a evaluar la performance en la muestra test.
+
+Primero, hacemos el proceso para calcular el Error Cuadrático Medio (ECM) en la muestra de validación para un valor puntual del parámetro.
+
+```{r calculo emc}
+
+# entreno el modelo en train
+
+rctrl_par1 = rpart.control(cp = 0.01)
+cart_par1 = rpart(wage ~ ., data = wage1_train, control = rctrl_par1)
+rpart.plot(cart_par1)
+
+# predigo en la muestra de test
+cart_par1_pred = predict(cart_par1, wage1_test)
+
+# calculo el ecm con la diferencia con el valor real
+mean((wage1_test$wage - cart_par1_pred)^2)
+
+```
+
+Como se ve en el gráfico, si bien la jerarquía de las variables se mantuvo relativamente estable, aparecen algunos cambios respecto al primero modelo que entrenamos, que tenía los mismos parámetros. Una desventaja de los árboles es que tienen gran variabilidad, por eso no hay que exagerar las conclusiones que se puedan sacar.
+
+## Ajuste con distintos valores del parámetro 
+
+Ahora vamos a repetir este proceso varias veces, probando con distintos valores de `cp`, y vamos a comparar los ECM en test para elegir qué valor de este parámetro nos sirve para encontrar las relaciones existentes entre las variables sin sobreajustar a los datos de la muestra.
+
+```{r parametrizacion}
+
+# establezco los valores que quiero probar
+cp_par = c(0.005, 0.01, 0.02, 0.03, 0.05)
+
+# armo una funcion para calcular el emc
+cp_emc = function(cp) {
+  model = rpart(wage ~ ., data = wage1_train, 
+                control = rpart.control(cp = cp))
+  predict = predict(model, wage1_test)
+  emc = mean((wage1_test[['wage']]-predict)^2)
+  return(data.frame(cp = cp, emc = emc))
+}
+
+map(cp_par, function(x) cp_emc(x)) 
+
+```
+
+## Árbol final
+
+Vemos que el árbol que minimiza el ECM en la muestra de validación es el que se construyó con el parámetro `cp = 0.02`. Este es el árbol que mejor capta las relaciones generales de las variables que estamos estudiando.
+
+Para finalizar, vamos a graficar el árbol ajustado con este criterio. Como era de esperar, presenta algunas aperturas menos que el árbol que habíamos visto antes, con un `cp` inferior.
+
+```{r arbol final}
+
+# arbol final
+arbol_final = rpart(wage ~ ., data = wage1_train,
+                    control = rpart.control(cp = 0.02))
+rpart.plot(arbol_final)
+
+```
