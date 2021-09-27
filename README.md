@@ -7,7 +7,7 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 * [APIs y Scraping](#apis-y-Scraping)
 * [Presentación Visual](#presentación-visual)
 * [Regresión Lineal](#regresión-lineal)
-* [Árboles de Decisión](#árboles-de-decision)
+* [Árboles de Decisión](#árboles-de-decisión)
 
 
 ## Material
