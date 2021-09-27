@@ -3,6 +3,10 @@
 Material de apoyo que creo puede resultar útil para algunos temas presentados en la materia Análisis Predictivo de la
 Licenciatura en Analítica Social y Empresarial del ITBA. 
 
+# Índice
+[APIs y Scraping](#APIs y Scraping)
+
+
 # APIs y Scraping
 * [Scraping sin uso de browser](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Sin_Browser.ipynb)
 * [Scraping con uso de browser](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Con_Browser.ipynb)
