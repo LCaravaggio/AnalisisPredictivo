@@ -4,7 +4,7 @@ Material de apoyo que creo puede resultar útil para algunos temas presentados e
 Licenciatura en Analítica Social y Empresarial del ITBA. 
 
 # Índice
-* [APIs y Scraping](#APIs y Scraping)
+* [APIs y Scraping](#apis-y-Scraping)
 
 
 ## APIs y Scraping
