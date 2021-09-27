@@ -10,13 +10,14 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 * [Árboles de Decisión](#árboles-de-decision)
 
 
-## APIs y Scraping
+## Material
+### APIs y Scraping
 * [Scraping sin uso de browser](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Sin_Browser.ipynb)
 * [Scraping con uso de browser](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Con_Browser.ipynb)
 * [Ejemplo API Datos.gob.ar](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/api%20DatosGobAr.ipynb)
 * [Ejemplo API Alphacast](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Ejercicio_Sencillo_Alphacast.ipynb)
 
-## Presentación Visual
+### Presentación Visual
 * [Bar Chart Race](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bar%20Chart%20Race.ipynb)
 * [Data to Viz](https://www.data-to-viz.com/)
 * [Juego del Recreo](https://private.unicog.org/msm/graphicacy/exp.html?sp)
@@ -26,13 +27,13 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 * [Draw Data](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Draw_Data.ipynb)
 
 
-## Regresión lineal
+### Regresión lineal
 * [Ejemplo Sencillo](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Regresi%C3%B3n_Lineal.ipynb)
 * [Regresión lineal en R](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Reg%20lin%20en%20R.R)
 * [Regresión lineal múltiple](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Regresi%C3%B3n_lineal_multiple.ipynb)
 * [Pesos Alturas](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Pesos_alturas.ipynb)
 
-## Árboles de Decisión
+### Árboles de Decisión
 * [Árbol como IF](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/%C3%81rbol_sencillo.ipynb)
 * [Árbol para Regresión](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/%C3%81rbol%20Regresi%C3%B3n.ipynb)
 * [Árbol en R markdown](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Arboles.Rmd)
