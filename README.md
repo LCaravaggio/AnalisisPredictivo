@@ -13,7 +13,7 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 ## APIs y Scraping
 * [Scraping sin uso de browser](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Sin_Browser.ipynb)
 * [Scraping con uso de browser](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Con_Browser.ipynb)
-* [Ejemplo API Datos.gob.ar](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/api.ipynb)
+* [Ejemplo API Datos.gob.ar](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/api%20DatosGobAr.ipynb)
 * [Ejemplo API Alphacast](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Ejercicio_Sencillo_Alphacast.ipynb)
 
 ## Presentación Visual
