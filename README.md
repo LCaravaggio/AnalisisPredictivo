@@ -3,8 +3,11 @@
 Material de apoyo que creo puede resultar útil para algunos temas presentados en la materia Análisis Predictivo de la
 Licenciatura en Analítica Social y Empresarial del ITBA. 
 
-# Índice
+## Índice
 * [APIs y Scraping](#apis-y-Scraping)
+* [Presentación Visual](#presentación-visual)
+* [Regresión Lineal](#regresión-lineal)
+* [Árboles de Decisión](#árboles-de-decision)
 
 
 ## APIs y Scraping
