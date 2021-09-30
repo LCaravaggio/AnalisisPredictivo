@@ -24,14 +24,14 @@ Licenciatura en Analítica Social y Empresarial del ITBA.
 * [Curso de Deep Learning Geométrico](https://geometricdeeplearning.com/lectures/)
 * [Curso GIS](https://automating-gis-processes.github.io/CSC18/)
 * [Intro a Neo4j](https://www.youtube.com/watch?v=BcgXw06lSIo&t=807s)
-* [Draw Data](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Draw_Data.ipynb)
+* [Draw Data](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/02_Presentación_Visual/Draw_Data.ipynb)
 
 
 ### Regresión lineal
-* [Ejemplo Sencillo](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Regresi%C3%B3n_Lineal.ipynb)
-* [Regresión lineal en R](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Reg%20lin%20en%20R.R)
-* [Regresión lineal múltiple](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Regresi%C3%B3n_lineal_multiple.ipynb)
-* [Pesos Alturas](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Pesos_alturas.ipynb)
+* [Ejemplo Sencillo](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/03_Regresión_Lineal/Regresi%C3%B3n_Lineal.ipynb)
+* [Regresión lineal en R](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/03_Regresión_Lineal/Reg%20lin%20en%20R.R)
+* [Regresión lineal múltiple](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/03_Regresión_Lineal/Regresi%C3%B3n_lineal_multiple.ipynb)
+* [Pesos Alturas](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/03_Regresión_Lineal/Pesos_alturas.ipynb)
 
 ### Árboles de Decisión
 * [Árbol como IF](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/%C3%81rbol_sencillo.ipynb)
