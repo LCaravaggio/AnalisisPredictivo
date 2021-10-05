@@ -1,3 +1,5 @@
+![alt text](https://www.itba.edu.ar/wp-content/uploads/2020/03/Marca-ITBA-Color-ALTA.png)
+
 # Análisis Predictivo
 
 Material de apoyo que creo puede resultar útil para algunos temas presentados en la materia Análisis Predictivo de la
