@@ -1,4 +1,4 @@
-![alt text](https://www.itba.edu.ar/wp-content/uploads/2020/03/Marca-ITBA-Color-ALTA.png =250x250)
+<a href="url"><img src="https://www.itba.edu.ar/wp-content/uploads/2020/03/Marca-ITBA-Color-ALTA.png" height="48" width="48" ></a>
 
 # Análisis Predictivo
 
