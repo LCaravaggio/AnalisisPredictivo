@@ -7,7 +7,10 @@ Acá va una serie de libros que pueden ser útiles...
 [ML in Python](https://www.goodreads.com/book/show/23059706-machine-learning-in-python) <br />
 [Introduction to ML with Python](https://www.goodreads.com/book/show/24346909-introduction-to-machine-learning-with-python) <br />
 [ML for hackers](https://www.goodreads.com/book/show/13482301-machine-learning-for-hackers) <br />
-
+[Causation, Prediction and Search](https://www.goodreads.com/book/show/739803.Causation_Prediction_and_Search) <br />
+[Introduction to ML](https://www.goodreads.com/book/show/213032.Introduction_to_Machine_Learning) <br /> 
+[ML](https://www.goodreads.com/book/show/15857489-machine-learning)  <br />
+[Probabilistic ML](https://www.goodreads.com/book/show/58064710-probabilistic-machine-learning) <br />
 
 ## General teórico
 [The book of why](https://www.goodreads.com/book/show/36204378-the-book-of-why) <br />
@@ -41,6 +44,7 @@ Acá va una serie de libros que pueden ser útiles...
 ## SVM
 [Statistical Learning Theory](https://www.goodreads.com/book/show/29352723-statistical-learning-theory) <br />
 [The nature of SLT](https://www.goodreads.com/book/show/9468739-the-nature-of-statistical-learning-theory) <br />
+[Learning with Kernels](https://www.goodreads.com/book/show/213033.Learning_with_Kernels) <br />
 
 ## Clustering
 [Data clustering](https://www.goodreads.com/book/show/2247772.Data_Clustering) <br />
@@ -61,7 +65,8 @@ Acá va una serie de libros que pueden ser útiles...
 <br />
 [NLP with Python](https://www.goodreads.com/book/show/6392569.Natural_Language_Processing_with_Python)  <br />
 [Speech and Language Processing](https://www.goodreads.com/book/show/908047.Speech_and_Language_Processing)  <br />
-[Analyzing linguistic data](https://www.goodreads.com/book/show/6179005-analyzing-linguistic-data)
-[Handbook of NLP](https://www.goodreads.com/book/show/6884480-handbook-of-natural-language-processing)
+[Analyzing linguistic data](https://www.goodreads.com/book/show/6179005-analyzing-linguistic-data) <br />
+[Handbook of NLP](https://www.goodreads.com/book/show/6884480-handbook-of-natural-language-processing) <br />
+[Introduction to NLP](https://www.goodreads.com/book/show/44512538-introduction-to-natural-language-processing) <br />
 
 
