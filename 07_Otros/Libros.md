@@ -68,5 +68,6 @@ Acá va una serie de libros que pueden ser útiles...
 [Analyzing linguistic data](https://www.goodreads.com/book/show/6179005-analyzing-linguistic-data) <br />
 [Handbook of NLP](https://www.goodreads.com/book/show/6884480-handbook-of-natural-language-processing) <br />
 [Introduction to NLP](https://www.goodreads.com/book/show/44512538-introduction-to-natural-language-processing) <br />
+[Text mining with R](https://www.goodreads.com/book/show/34006736-text-mining-with-r)
 
 
