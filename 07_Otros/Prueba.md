@@ -1,5 +1,5 @@
 <p>
 <a href="https://www.goodreads.com/book/show/55339408-noise">
-<img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617709587l/55339408.jpg" width="26" height="40">
+<img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617709587l/55339408.jpg" width="32.25" height="50">
 </a>
 </p>
