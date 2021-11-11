@@ -55,8 +55,6 @@ Acá va una serie de libros que pueden ser útiles...
 <img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348403416l/1254075.jpg" width="86" height="133.3">
 </a>
 </p>
-[Data clustering](https://www.goodreads.com/book/show/2247772.Data_Clustering) <br />
-[Finding groups in data](https://www.goodreads.com/book/show/1254075.Finding_Groups_In_Data) <br />
 
 ## Repaso de Matemática
 [Convex Optimization](https://www.goodreads.com/book/show/148030.Convex_Optimization) <br />
