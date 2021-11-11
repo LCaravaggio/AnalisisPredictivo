@@ -47,6 +47,14 @@ Acá va una serie de libros que pueden ser útiles...
 [Learning with Kernels](https://www.goodreads.com/book/show/213033.Learning_with_Kernels) <br />
 
 ## Clustering
+<p>
+<a href="https://www.goodreads.com/book/show/2247772.Data_Clustering">
+<img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266669217l/2247772.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/1254075.Finding_Groups_In_Data">
+<img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348403416l/1254075.jpg" width="86" height="133.3">
+</a>
+</p>
 [Data clustering](https://www.goodreads.com/book/show/2247772.Data_Clustering) <br />
 [Finding groups in data](https://www.goodreads.com/book/show/1254075.Finding_Groups_In_Data) <br />
 
