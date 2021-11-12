@@ -1,13 +1,9 @@
 Acá va una serie de libros que pueden ser útiles...
 ## General aplicado
 <p>
-<a href="https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning?ac=1&from_search=true&qid=yS5kS2AaCR&rank=2">
+<a href="https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning">
 <img border="0" title="The Elements of Statistical Learning" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387738132l/148009.jpg" width="86" height="133.3">
-</a>
-<a href="https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning">
-<img border="0" title="An Introduction to Statistical Learning" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385132472l/17397466.jpg" width="86" height="133.3">
 </a>
 <a href="https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning">
 <img border="0" title="An Introduction to Statistical Learning" 
@@ -50,19 +46,43 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15005
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631506276l/58064710._SX318_.jpg" width="86" height="133.3">
 </a>
 </p>
-[The Elements of Statistical Learning](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning?ac=1&from_search=true&qid=yS5kS2AaCR&rank=2) <br />
-[An Introduction to Statistical Learning](https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning) <br />
-[Hands on ML](https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow) <br />
-[Applied Predictive Modeling](https://www.goodreads.com/book/show/17299542-applied-predictive-modeling) <br />
-[ML in Python](https://www.goodreads.com/book/show/23059706-machine-learning-in-python) <br />
-[Introduction to ML with Python](https://www.goodreads.com/book/show/24346909-introduction-to-machine-learning-with-python) <br />
-[ML for hackers](https://www.goodreads.com/book/show/13482301-machine-learning-for-hackers) <br />
-[Causation, Prediction and Search](https://www.goodreads.com/book/show/739803.Causation_Prediction_and_Search) <br />
-[Introduction to ML](https://www.goodreads.com/book/show/213032.Introduction_to_Machine_Learning) <br /> 
-[ML](https://www.goodreads.com/book/show/15857489-machine-learning)  <br />
-[Probabilistic ML](https://www.goodreads.com/book/show/58064710-probabilistic-machine-learning) <br />
+
 
 ## General teórico
+<p>
+<a href="https://www.goodreads.com/book/show/36204378-the-book-of-why">
+<img border="0" title="The Book of Why" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516890908l/36204378.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise">
+<img border="0" title="The Signal and the Noise" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355058876l/13588394.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/55339408-noise">
+<img border="0" title="Noise" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617709587l/55339408.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/43722897-the-art-of-statistics">
+<img border="0" title="The Art of Statistics" alt="Finding Groups in Data" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561638191l/43722897.jpg" width="86" height="133.3">
+</a>  
+<a href="https://www.goodreads.com/book/show/38315.Fooled_by_Randomness">
+<img border="0" title="Fooled by Randomness"
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388180506l/38315.jpg" width="86" height="133.3">
+</a>  
+<a href="https://www.goodreads.com/book/show/20324580-uncharted">
+<img border="0" title="Uncharted" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403903307l/20324580.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/23345558-en-el-enjambre">
+<img border="0" title="En el enjambre" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412827540l/23345558.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/46141625-todo-el-mundo-miente">
+<img border="0" title="Todo el mundo miente" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559611356l/46141625._SY475_.jpg" width="86" height="133.3">
+</a>
+</p>
 [The book of why](https://www.goodreads.com/book/show/36204378-the-book-of-why) <br />
 [The signal and the noise](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) <br />
 [Noise](https://www.goodreads.com/book/show/55339408-noise) <br />
