@@ -27,7 +27,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14758
 </a>
 <a href="https://www.goodreads.com/book/show/13482301-machine-learning-for-hackers">
 <img border="0" title="Machine Learning for Hackers" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385132472l/17397466.jpg" width="86" height="133.3">
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329074818l/13482301.jpg" width="86" height="133.3">
 </a>
 <a href="https://www.goodreads.com/book/show/739803.Causation_Prediction_and_Search">
 <img border="0" title="Causation, Prediction, and Search" 
