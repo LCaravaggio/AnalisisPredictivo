@@ -228,6 +228,10 @@ Reinforcement Learning
 <img border="0" title="Reinforcement Learning: An Introduction" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348086685l/739791.jpg" width="86" height="133.3">
 </a>
+<a href="https://www.goodreads.com/book/show/16564989-algorithms-for-reinforcement-learning?ac=1&from_search=true&qid=kcYVkgLyGt&rank=1">
+<img border="0" title="Algorithms for Reinforcement Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356169399l/16564989.jpg" width="86" height="133.3">
+</a>
 </p>
 
 <p>
