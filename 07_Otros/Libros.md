@@ -50,7 +50,7 @@ Acá va una serie de libros que pueden ser útiles...
 <p>
 <a href="https://www.goodreads.com/book/show/2247772.Data_Clustering">
 <img border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266669217l/2247772.jpg" width="86" height="133.3">
-  <div>Data Clustering</div>
+  
 </a>
 <a href="https://www.goodreads.com/book/show/1254075.Finding_Groups_In_Data">
 <img border="0" alt="Finding Groups in Data" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348403416l/1254075.jpg" width="86" height="133.3">
