@@ -44,6 +44,11 @@ src="https://yt3.ggpht.com/ytc/AKedOLQ8KuwKBxRda5o61ZOyeixxQ5G8yoUQGKbRJcI8KA=s8
 <img border="0" title="DeepMind" 
 src="https://yt3.ggpht.com/ytc/AKedOLTarwhizTbB1hsGgkkf9u3ZXFnTllIgf_fq0gv4PQ=s88-c-k-c0x00ffffff-no-rj">
 </a>
+  
+<a href="https://www.youtube.com/c/Freecodecamp">
+<img border="0" title="freeCodeCamp.org" 
+src="https://yt3.ggpht.com/ytc/AKedOLTtJvQ1Vfew91vemeLaLdhjOwGx3tTBLlreK_QUyA=s88-c-k-c0x00ffffff-no-rj">
+</a>
 </p>
 
 
