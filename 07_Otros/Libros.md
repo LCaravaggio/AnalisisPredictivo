@@ -83,15 +83,41 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14128
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559611356l/46141625._SY475_.jpg" width="86" height="133.3">
 </a>
 </p>
-[The book of why](https://www.goodreads.com/book/show/36204378-the-book-of-why) <br />
-[The signal and the noise](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) <br />
-[Noise](https://www.goodreads.com/book/show/55339408-noise) <br />
-[The art of statistics](https://www.goodreads.com/book/show/43722897-the-art-of-statistics) <br />
-[Fooled by randomness](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness) <br />
-[Uncharted](https://www.goodreads.com/book/show/20324580-uncharted) <br />
-[En el Enjambre](https://www.goodreads.com/book/show/23345558-en-el-enjambre) <br />
+
 
 ## Scraping y Data Analysis
+<p>
+<a href="https://www.goodreads.com/book/show/25752783-web-scraping-with-python">
+<img border="0" title="Web Scraping with Python" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435869255l/25752783._SX318_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/12818088-mining-of-massive-datasets">
+<img border="0" title="Mining of Massive Datasets" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344738596l/12818088.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/9328656-mining-the-social-web">
+<img border="0" title="Mining the Social Web" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328761622l/9328656.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/29860163-r-for-data-science">
+<img border="0" title="R for Data Science" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460167872l/29860163._SY475_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/14744694-python-for-data-analysis">
+<img border="0" title="Python for Data Analysis" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356132971l/14744694.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/26457146-python-data-science-handbook">
+<img border="0" title="Python Data Science Handbook" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481029785l/26457146.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/8360735-data-analysis-with-open-source-tools">
+<img border="0" title="Data Analysis with Open Source Tools" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354901717l/8360735.jpg" width="86" height="133.3">
+</a>
+</p>
+  
+
 [Web Scraping with Python](https://www.goodreads.com/book/show/25752783-web-scraping-with-python?ac=1&from_search=true&qid=iB0SXlMxnk&rank=1) <br />
 [Mining of massive datasets](https://www.goodreads.com/book/show/12818088-mining-of-massive-datasets) <br />
 [Mining the social web](https://www.goodreads.com/book/show/9328656-mining-the-social-web)
