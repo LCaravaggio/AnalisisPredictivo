@@ -14,6 +14,16 @@ src="https://yt3.ggpht.com/ytc/AKedOLT8mK_8SZ5QXllVly_c54MDkST6exGSKu0ttyir=s88-
 <img border="0" title="Intuitive Machine Learning" 
 src="https://yt3.ggpht.com/ytc/AKedOLTd7rJT3OofTJPMZSyLpDO15HWGsBudUYxwsllR=s88-c-k-c0x00ffffff-no-rj">
 </a>
+  
+<a href="https://www.youtube.com/user/kaggledotcom">
+<img border="0" title="Kaggle" 
+src="https://yt3.ggpht.com/ytc/AKedOLQdGadAW1NnDkNEjfOhJLMPu02nWuHRlF6gCjOR=s88-c-k-c0x00ffffff-no-rj">
+</a>
+
+<a href="https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ">
+<img border="0" title="codebasics" 
+src="https://yt3.ggpht.com/ytc/AKedOLR98bhIGaCzZQIQ_82pewn-mxzp43LlX8wX9oaN=s88-c-k-c0x00ffffff-no-rj">
+</a>
 </p>
 
 
