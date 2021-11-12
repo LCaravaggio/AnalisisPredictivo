@@ -53,7 +53,7 @@ Acá va una serie de libros que pueden ser útiles...
   
 </a>
 <a href="https://www.goodreads.com/book/show/1254075.Finding_Groups_In_Data">
-<img border="0" alt="Finding Groups in Data" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348403416l/1254075.jpg" width="86" height="133.3">
+<img border="0" title="Finding Groups in Data" alt="Finding Groups in Data" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348403416l/1254075.jpg" width="86" height="133.3">
 </a>
 </p>
 
