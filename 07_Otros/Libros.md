@@ -1,5 +1,55 @@
 Acá va una serie de libros que pueden ser útiles...
 ## General aplicado
+<p>
+<a href="https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning?ac=1&from_search=true&qid=yS5kS2AaCR&rank=2">
+<img border="0" title="The Elements of Statistical Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387738132l/148009.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning">
+<img border="0" title="An Introduction to Statistical Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385132472l/17397466.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning">
+<img border="0" title="An Introduction to Statistical Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385132472l/17397466.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow">
+<img border="0" title="Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow" alt="Finding Groups in Data" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571123692l/40363665.jpg" width="86" height="133.3">
+</a>  
+<a href="https://www.goodreads.com/book/show/17299542-applied-predictive-modeling">
+<img border="0" title="Applied Predictive Modeling"
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385251160l/17299542.jpg" width="86" height="133.3">
+</a>  
+<a href="https://www.goodreads.com/book/show/23059706-machine-learning-in-python">
+<img border="0" title="Machine Learning in Python" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470617594l/23059706._SX318_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/24346909-introduction-to-machine-learning-with-python">
+<img border="0" title="Introduction to Machine Learning with Python" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475832701l/24346909.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/13482301-machine-learning-for-hackers">
+<img border="0" title="Machine Learning for Hackers" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385132472l/17397466.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/739803.Causation_Prediction_and_Search">
+<img border="0" title="Causation, Prediction, and Search" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390074736l/739803.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/213032.Introduction_to_Machine_Learning">
+<img border="0" title="Introduction to Machine Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923543l/213032.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/15857489-machine-learning">
+<img border="0" title="Machine Learning: A Probabilistic Perspective" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500590648l/15857489._SX318_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/58064710-probabilistic-machine-learning">
+<img border="0" title="Probabilistic Machine Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631506276l/58064710._SX318_.jpg" width="86" height="133.3">
+</a>
+</p>
 [The Elements of Statistical Learning](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning?ac=1&from_search=true&qid=yS5kS2AaCR&rank=2) <br />
 [An Introduction to Statistical Learning](https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning) <br />
 [Hands on ML](https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow) <br />
