@@ -117,25 +117,41 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13549
 </a>
 </p>
   
-
-[Web Scraping with Python](https://www.goodreads.com/book/show/25752783-web-scraping-with-python?ac=1&from_search=true&qid=iB0SXlMxnk&rank=1) <br />
-[Mining of massive datasets](https://www.goodreads.com/book/show/12818088-mining-of-massive-datasets) <br />
-[Mining the social web](https://www.goodreads.com/book/show/9328656-mining-the-social-web)
-<br />
-[R for data science](https://www.goodreads.com/book/show/29860163-r-for-data-science) <br />
-[Python for data analysis](https://www.goodreads.com/book/show/14744694-python-for-data-analysis) <br />
-[Python Data Science Handbook](https://www.goodreads.com/book/show/26457146-python-data-science-handbook) <br />
-[Data Analysis with Open Source tools](https://www.goodreads.com/book/show/8360735-data-analysis-with-open-source-tools) <br />
-
 ## Visualización
-[Storytelling with data](https://www.goodreads.com/book/show/26535513-storytelling-with-data) <br />
-[Fundamentales of Data Visualization](https://www.goodreads.com/book/show/40014286-fundamentals-of-data-visualization) <br />
-[How charts lie](https://www.goodreads.com/book/show/43726576-how-charts-lie) <br />
-[Good Charts](goodreads.com/book/show/27038049-good-charts) <br />
-[Data Visualization](https://www.goodreads.com/book/show/29200705-data-visualisation) <br />
-[The Visual Display of Quantitative Information](https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information) <br />
-[The WSJ Guide to Information Graphics](https://www.goodreads.com/book/show/6542897-the-wall-street-journal-guide-to-information-graphics) <br />
-[Data visualization](https://www.goodreads.com/book/show/39964443-data-visualization) <br />
+<p>
+<a href="https://www.goodreads.com/book/show/26535513-storytelling-with-data">
+<img border="0" title="Storytelling with Data" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444690744l/26535513._SX318_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/40014286-fundamentals-of-data-visualization">
+<img border="0" title="Fundamentals of Data Visualization" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553582051l/40014286.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/43726576-how-charts-lie">
+<img border="0" title="How Charts Lie" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563764604l/43726576.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/29200705-data-visualisation">
+<img border="0" title="Data Visualisation" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460188603l/29200705._SX318_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/17744.The_Visual_Display_of_Quantitative_Information">
+<img border="0" title="The Visual Display of Quantitative Information" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560425455l/17744._SX318_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/6542897-the-wall-street-journal-guide-to-information-graphics">
+<img border="0" title="The Wall Street Journal Guide to Information Graphics" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347811638l/6542897.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/39964443-data-visualization">
+<img border="0" title="Data Visualization: A Practical Introduction" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545849576l/39964443._SX318_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/27038049-good-charts">
+<img border="0" title="Good Charts" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444689367l/27038049._SX318_.jpg" width="86" height="86">
+</a>
+</p>
 
 ## SVM
 [Statistical Learning Theory](https://www.goodreads.com/book/show/29352723-statistical-learning-theory) <br />
