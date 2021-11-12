@@ -182,23 +182,72 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13482
 </p>
 
 ## Repaso de Matemática
-[Convex Optimization](https://www.goodreads.com/book/show/148030.Convex_Optimization) <br />
-[Mathematics for ML](https://www.goodreads.com/book/show/50040746-mathematics-for-machine-learning) <br />
-[Bayesian Data Analysis](https://www.goodreads.com/book/show/619590.Bayesian_Data_Analysis) <br />
+<p>
+<a href="https://www.goodreads.com/book/show/148030.Convex_Optimization">
+<img border="0" title="Convex Optimization" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358993464l/148030.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/50040746-mathematics-for-machine-learning">
+<img border="0" title="Mathematics for Machine Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572995511l/50040746._SX318_SY475_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/619590.Bayesian_Data_Analysis">
+<img border="0" title="Bayesian Data Analysis" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340797343l/619590.jpg" width="86" height="133.3">
+</a>
+</p>
 
 ## Beyond the scope of the course
-[Deep Learning](https://www.goodreads.com/book/show/24072897-deep-learning)  <br />
-[DL with Python](https://www.goodreads.com/book/show/33986067-deep-learning-with-python)  <br />
-[DL Cookbook](https://www.goodreads.com/book/show/37707168-deep-learning-cookbook) <br />
-[Pattern Recognition and ML](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning) <br />
-<br />
-[Reinforcement Learning](https://www.goodreads.com/book/show/739791.Reinforcement_Learning) <br />
-<br />
-[NLP with Python](https://www.goodreads.com/book/show/6392569.Natural_Language_Processing_with_Python)  <br />
-[Speech and Language Processing](https://www.goodreads.com/book/show/908047.Speech_and_Language_Processing)  <br />
-[Analyzing linguistic data](https://www.goodreads.com/book/show/6179005-analyzing-linguistic-data) <br />
-[Handbook of NLP](https://www.goodreads.com/book/show/6884480-handbook-of-natural-language-processing) <br />
-[Introduction to NLP](https://www.goodreads.com/book/show/44512538-introduction-to-natural-language-processing) <br />
-[Text mining with R](https://www.goodreads.com/book/show/34006736-text-mining-with-r)
+<p>
+<a href="https://www.goodreads.com/book/show/24072897-deep-learning">
+<img border="0" title="Deep Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490810628l/24072897.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/33986067-deep-learning-with-python">
+<img border="0" title="Deep Learning with Python" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513265126l/33986067._SX318_.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/37707168-deep-learning-cookbook">
+<img border="0" title="Deep Learning Cookbook" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529051582l/37707168.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning">
+<img border="0" title="Pattern Recognition and Machine Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347401011l/55881.jpg" width="86" height="133.3">
+</a>
+</p>
 
+<p>
+<a href="https://www.goodreads.com/book/show/739791.Reinforcement_Learning">
+<img border="0" title="Reinforcement Learning: An Introduction" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348086685l/739791.jpg" width="86" height="133.3">
+</a>
+</p>
 
+<p>
+<a href="https://www.goodreads.com/book/show/6392569.Natural_Language_Processing_with_Python">
+<img border="0" title="Natural Language Processing with Python" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834784l/6392569.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/908047.Speech_and_Language_Processing">
+<img border="0" title="Speech and Language Processing" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391032539l/908047.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/6179005-analyzing-linguistic-data">
+<img border="0" title="Analyzing Linguistic Data" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392023932l/6179005.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/6884480-handbook-of-natural-language-processing">
+<img border="0" title="Handbook of Natural Language Processing" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348425778l/6884480.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/44512538-introduction-to-natural-language-processing">
+<img border="0" title="Introduction to Natural Language Processing" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570703063l/44512538.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/34006736-text-mining-with-r">
+<img border="0" title="Text Mining with R" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497976596l/34006736.jpg" width="86" height="133.3">
+</a>
+</p>
+  
