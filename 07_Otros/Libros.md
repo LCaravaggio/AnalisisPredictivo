@@ -168,6 +168,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13019
 <img border="0" title="Learning with Kernels" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348242892l/213033.jpg" width="86" height="133.3">
 </a>
+<a href="https://www.goodreads.com/book/show/264011.An_Introduction_to_Support_Vector_Machines_and_Other_Kernel_Based_Learning_Methods">
+<img border="0" title="An Introduction to Support Vector Machines and Other Kernel-Based Learning Methods" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421012060l/264011.jpg" width="86" height="133.3">
+</a>
 </p>
 
 ## Clustering
