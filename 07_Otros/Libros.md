@@ -199,7 +199,9 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13407
 
 ## Beyond the scope of the course
 <p>
+<p>
 Deep Learning
+</p>
 <a href="https://www.goodreads.com/book/show/24072897-deep-learning">
 <img border="0" title="Deep Learning" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490810628l/24072897.jpg" width="86" height="133.3">
@@ -219,7 +221,9 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13474
 </p>
 
 <p>
+<p>
 Reinforcement Learning
+</p>
 <a href="https://www.goodreads.com/book/show/739791.Reinforcement_Learning">
 <img border="0" title="Reinforcement Learning: An Introduction" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348086685l/739791.jpg" width="86" height="133.3">
@@ -227,7 +231,9 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13480
 </p>
 
 <p>
+<p>  
 Procesamiento del Lenguaje Natural
+</p>  
 <a href="https://www.goodreads.com/book/show/6392569.Natural_Language_Processing_with_Python">
 <img border="0" title="Natural Language Processing with Python" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834784l/6392569.jpg" width="86" height="133.3">
