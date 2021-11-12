@@ -149,14 +149,26 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15458
 </a>
 <a href="https://www.goodreads.com/book/show/27038049-good-charts">
 <img border="0" title="Good Charts" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444689367l/27038049._SX318_.jpg" width="86" height="86">
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444689367l/27038049._SX318_.jpg" width="86" height="133.3">
 </a>
 </p>
 
 ## SVM
-[Statistical Learning Theory](https://www.goodreads.com/book/show/29352723-statistical-learning-theory) <br />
-[The nature of SLT](https://www.goodreads.com/book/show/9468739-the-nature-of-statistical-learning-theory) <br />
-[Learning with Kernels](https://www.goodreads.com/book/show/213033.Learning_with_Kernels) <br />
+<p>
+<a href="https://www.goodreads.com/book/show/29352723-statistical-learning-theory">
+<img border="0" title="Statistical Learning Theory" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456595769l/29352723._SY475_.jpg" width="86" height="133.3">
+</a>
+</a>
+<a href="https://www.goodreads.com/book/show/9468739-the-nature-of-statistical-learning-theory">
+<img border="0" title="The Nature of Statistical Learning Theory" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301920657l/9468739.jpg" width="86" height="133.3">
+</a>  
+<a href="https://www.goodreads.com/book/show/213033.Learning_with_Kernels">
+<img border="0" title="Learning with Kernels" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348242892l/213033.jpg" width="86" height="133.3">
+</a>
+</p>
 
 ## Clustering
 <p>
