@@ -45,6 +45,14 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15005
 <img border="0" title="Probabilistic Machine Learning" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631506276l/58064710._SX318_.jpg" width="86" height="133.3">
 </a>
+<a href="https://www.goodreads.com/book/show/213031.Data_Mining">
+<img border="0" title="Data Mining: Practical Machine Learning Tools and Techniques" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388211055l/213031.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/213032.Introduction_to_Machine_Learning">
+<img border="0" title="Introduction to Machine Learning" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923543l/213032.jpg" width="86" height="133.3">
+</a>
 </p>
 
 
@@ -183,6 +191,30 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14210
 <a href="https://www.goodreads.com/book/show/1254075.Finding_Groups_In_Data">
 <img border="0" title="Finding Groups in Data" alt="Finding Groups in Data" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348403416l/1254075.jpg" width="86" height="133.3">
 </a>
+</p>
+
+## Series de Tiempo
+<p>
+<a href="https://www.goodreads.com/book/show/17848507-multivariate-time-series-analysis">
+<img border="0" title="Multivariate Time Series Analysis: With R and Financial Applications" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384735188l/17848507.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/1141041.Applied_Econometric_Time_Series?ac=1&from_search=true&qid=CyyO0UfeVl&rank=2">
+<img border="0" title="Applied Econometric Time Series" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387714165l/1141041.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/22615937-an-lisis-de-series-de-tiempo?ac=1&from_search=true&qid=TtfURvG5pV&rank=1">
+<img border="0" title="Análisis de Series de Tiempo" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404316441l/22615937.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/83280.Econometric_Analysis?ac=1&from_search=true&qid=9rg0z75nCB&rank=1">
+<img border="0" title="Econometric Analysis" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924179l/83280.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/1248992.Analysis_of_Financial_Time_Series">
+<img border="0" title="Analysis of Financial Time Series" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347402730l/1248992.jpg" width="86" height="133.3">
+</a>  
 </p>
 
 ## Repaso de Matemática
