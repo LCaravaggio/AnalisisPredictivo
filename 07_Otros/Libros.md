@@ -266,5 +266,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15707
 <img border="0" title="Text Mining with R" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497976596l/34006736.jpg" width="86" height="133.3">
 </a>
+</p>  
+<a href="https://www.goodreads.com/book/show/2765817-text-analysis-for-the-social-sciences">
+<img border="0" title="Text Analysis for the Social Sciences" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482843452l/2765817.jpg" width="86" height="133.3">
+</a>
 </p>
   
