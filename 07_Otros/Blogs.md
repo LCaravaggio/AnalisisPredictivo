@@ -8,7 +8,7 @@ width="86" height="133.3">
   
 <a href="https://towardsdatascience.com/">
 <img border="0" title="Towards Data Science" 
-src="https://miro.medium.com/max/1173/1*eLxNtw6hQ4-3HrHda5BCCw.png">
-width="86" height="133.3"
+src="https://miro.medium.com/max/1173/1*eLxNtw6hQ4-3HrHda5BCCw.png"
+width="86" height="133.3">
 </a>
 </p> 
