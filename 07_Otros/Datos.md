@@ -112,5 +112,17 @@ width="90" height="90">
 <img border="0" title="Kaggle Datasets" 
 src="https://www.kaggle.com/static/images/datasets/Datasets_landing_illo.png"
 width="90" height="90">
-</a>    
+</a>
+  
+<a href="https://www.openml.org/search?type=data">
+<img border="0" title="Open ML" 
+src="https://www.openml.org/img/expdblogo2.png"
+width="90" height="90">
+</a>
+  
+<a href="https://www.alphacast.io/datasets">
+<img border="0" title="Open ML" 
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3WzVsBG2eG7ONq5KCsT9DV6TyzALlBiVpI_LRoGw28lUU_quCRkDSkVWlzkaiw7DAdU&usqp=CAU"
+width="90" height="90">
+</a>   
 </p> 
