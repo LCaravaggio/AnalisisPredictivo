@@ -23,4 +23,58 @@ width="90" height="90">
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh3Y-FYeTRK-FLsUp5AqpzcqCRa0tUTonWqRLJtcA0_QeaWM4-Ld2RjRoNmNcoYCOGF_0&usqp=CAU"
 width="90" height="90">
 </a>    
+  
+<a href="https://www.fao.org/faostat/en/#home">
+<img border="0" title="FAO" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/FAO_logo.svg/1200px-FAO_logo.svg.png"
+width="90" height="90">
+</a>  
+  
+<a href="https://www.indec.gob.ar/">
+<img border="0" title="FAO" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Instituto_Nacional_de_Estad%C3%ADstica_y_Censos.png/200px-Instituto_Nacional_de_Estad%C3%ADstica_y_Censos.png"
+width="90" height="90">
+</a>    
+  
+<a href="https://fred.stlouisfed.org/">
+<img border="0" title="FRED" 
+src="https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/images/logos/facebook/frb-stl_200px.jpg"
+width="90" height="90">
+</a> 
+  
+<a href="https://datos.gob.ar/">
+<img border="0" title="Datos.gob.ar" 
+src="https://datos.gob.ar/user_images/datosgobar.jpg"
+width="90" height="90">
+</a>
+  
+<a href="https://data.buenosaires.gob.ar/dataset/">
+<img border="0" title="Buenos Aires Data" 
+src="https://s3.amazonaws.com/com.cartodb.users-assets.production/production/gcba/assets/20180704200032LoDovvaG_400x400.jpg"
+width="90" height="90">
+</a> 
+  
+<a href="https://catalog.data.gov/dataset">
+<img border="0" title="Data.gov" 
+src="https://upload.wikimedia.org/wikipedia/commons/0/06/Muq55HrN_400x400.png"
+width="90" height="90">
+</a>   
+  
+<a href="https://github.com/awesomedata/awesome-public-datasets">
+<img border="0" title="Awesome Data" 
+src="https://github.com/awesomedata.png"
+width="90" height="90">
+</a>   
+
+<a href="https://datos.gob.es/en/catalogo">
+<img border="0" title="Awesome Data" 
+src="https://pbs.twimg.com/profile_images/1271028171333402625/BMMX8JZV_400x400.jpg"
+width="90" height="90">
+</a>  
+  
+<a href="http://data.un.org/">
+<img border="0" title="Awesome Data" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/UN_emblem_blue.svg/130px-UN_emblem_blue.svg.png"
+width="90" height="90">
+</a>  
 </p> 
