@@ -67,14 +67,50 @@ width="90" height="90">
 </a>   
 
 <a href="https://datos.gob.es/en/catalogo">
-<img border="0" title="Awesome Data" 
+<img border="0" title="Datos.gob.es" 
 src="https://pbs.twimg.com/profile_images/1271028171333402625/BMMX8JZV_400x400.jpg"
 width="90" height="90">
 </a>  
   
 <a href="http://data.un.org/">
-<img border="0" title="Awesome Data" 
+<img border="0" title="ONU" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/UN_emblem_blue.svg/130px-UN_emblem_blue.svg.png"
 width="90" height="90">
 </a>  
+  
+<a href="https://www.who.int/data/gho">
+<img border="0" title="WHO" 
+src="https://www.who.int/images/default-source/infographics/who-emblem.png?sfvrsn=877bb56a_2"
+width="90" height="90">
+</a>    
+  
+<a href="https://data.nasdaq.com/search">
+<img border="0" title="Awesome Data" 
+src="https://avatars.githubusercontent.com/u/13860626?v=4"
+width="90" height="90">
+</a>  
+  
+<a href="https://archive.ics.uci.edu/ml/index.php">
+<img border="0" title="UCI" 
+src="https://ucimlr.netlify.app/reference/figures/logo-inter-ui.png"
+width="90" height="90">
+</a>
+  
+<a href="https://academictorrents.com/">
+<img border="0" title="Academic Torrents" 
+src="https://avatars.githubusercontent.com/u/6632389?s=200&v=4"
+width="90" height="90">
+</a>
+  
+<a href="https://data.world/">
+<img border="0" title="Data World" 
+src="https://media-exp1.licdn.com/dms/image/C4E0BAQHD06-uyZUvNQ/company-logo_200_200/0/1625147391879?e=2159024400&v=beta&t=hLysqfRksJLmaz6Yz01-BJ5rctOaFnEodjNAoV2Ayus"
+width="90" height="90">
+</a>  
+  
+<a href="https://www.kaggle.com/datasets">
+<img border="0" title="Kaggle Datasets" 
+src="https://www.kaggle.com/static/images/datasets/Datasets_landing_illo.png"
+width="90" height="90">
+</a>    
 </p> 
