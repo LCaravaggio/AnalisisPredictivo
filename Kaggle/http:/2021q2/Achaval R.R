@@ -93,7 +93,7 @@ glimpse(df)
 
 # variables_con_nulos %>% ggplot(aes(y=log(runtime)))+geom_boxplot()
 
-#tratamos missings, atípicos, etc.
+#tratamos missings, atÃ­picos, etc.
 
 df$isAdult <- ifelse(is.na(df$isAdult),0,df$isAdult)
 
@@ -185,14 +185,14 @@ df$seasonNumber <- ifelse(is.na(df$seasonNumber),0,df$seasonNumber)
 df_status(df)
 
 inflacion <- read.csv('CPIAUCSL.csv')
-inflacion <- inflacion %>% filter(mes==12) %>% select(CPIAUCSL,año)
+inflacion <- inflacion %>% filter(mes==12) %>% select(CPIAUCSL,aÃ±o)
 inflacion
 
-ipcbase <- inflacion$CPIAUCSL[inflacion$año==2020]
+ipcbase <- inflacion$CPIAUCSL[inflacion$aÃ±o==2020]
 ipcbase <- 261.56
 ipcbase
 
-df <- df %>% left_join(inflacion, by=c('startYear'='año'))
+df <- df %>% left_join(inflacion, by=c('startYear'='aÃ±o'))
 
 
 df$budget_real <- (df$budget*ipcbase)/df$CPIAUCSL
