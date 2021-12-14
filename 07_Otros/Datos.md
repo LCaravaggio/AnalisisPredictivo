@@ -124,5 +124,23 @@ width="90" height="90">
 <img border="0" title="Open ML" 
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3WzVsBG2eG7ONq5KCsT9DV6TyzALlBiVpI_LRoGw28lUU_quCRkDSkVWlzkaiw7DAdU&usqp=CAU"
 width="90" height="90">
-</a>   
+</a>
+  
+<a href="https://dados.gov.br/dataset">
+<img border="0" title="Open ML" 
+src="https://avatars.githubusercontent.com/u/1541824?s=200&v=4"
+width="90" height="90">
+</a>
+
+<a href="https://msropendata.com/">
+<img border="0" title="Microsoft" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png"
+width="90" height="90">
+</a>
+  
+<a href="https://datahub.io/search">
+<img border="0" title="Data Hub" 
+src="https://datahub.io/static/img/datahub-cube-edited.svg"
+width="90" height="90">
+</a>    
 </p> 
