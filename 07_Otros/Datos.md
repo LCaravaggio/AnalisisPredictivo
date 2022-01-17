@@ -2,7 +2,7 @@
 <p>
 <a href="https://datasetsearch.research.google.com/">
 <img border="0" title="Google Search" 
-src="https://lh3.googleusercontent.com/proxy/KhVMTUtV0UOr675is1VMg6_dDRi2oGlo8m8q_EMDEeKY1ayX6LSVks371BFe5Cthvi16f33c2FicS_uxIOunRN3VWp7g-VmC8e0vMKIITCHpoKeGEuiudP7Nd3SIptRBf1bRd6zEVm-rmBMpBeVFsRz16cNa2KsHU-EF4k6KAhomC8FqVRoZIw6_q3xQylPgYlgOnay4xJoa4S3F"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp3J1G1BOAGY2dkJrqQsYAlXFWimqIacC2NFJR8d1PDb0gEu7mGXNJwnxFzQq2gbiprgs&usqp=CAU"
 width="90" height="90">
 </a>
   
@@ -143,4 +143,10 @@ width="90" height="90">
 src="https://datahub.io/static/img/datahub-cube-edited.svg"
 width="90" height="90">
 </a>    
+  
+<a href="https://huggingface.co/datasets">
+<img border="0" title="Hugging Face" 
+src="https://huggingface.co/front/thumbnails/datasets.png"
+width="90" height="90">
+</a>     
 </p> 
