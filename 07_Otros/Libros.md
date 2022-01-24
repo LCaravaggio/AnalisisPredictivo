@@ -231,6 +231,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15729
 <img border="0" title="Bayesian Data Analysis" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340797343l/619590.jpg" width="86" height="133.3">
 </a>
+<a href="https://probability4datascience.com/">
+<img border="0" title="Introduction to Probability for Data Science" 
+src="https://probability4datascience.com/pix/cover.png" width="86" height="133.3">
+</a>  
 </p>
 
 ## Beyond the scope of the course
