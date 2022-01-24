@@ -258,6 +258,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15290
 <img border="0" title="Pattern Recognition and Machine Learning" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347401011l/55881.jpg" width="86" height="133.3">
 </a>
+<a href="https://d2l.ai/">
+<img border="0" title="Dive into Deep Learning" 
+src="https://d2l.ai/_images/front.png" width="86" height="133.3">
+</a>
 </p>
 
 <p>
