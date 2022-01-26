@@ -1,4 +1,4 @@
-### Presentación Visual
+# Presentación Visual
 * [Bar Chart Race](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bar%20Chart%20Race.ipynb)
 * [Data to Viz](https://www.data-to-viz.com/)
 * [Juego del Recreo](https://private.unicog.org/msm/graphicacy/exp.html?sp)
