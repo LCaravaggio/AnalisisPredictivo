@@ -148,5 +148,11 @@ width="90" height="90">
 <img border="0" title="Hugging Face" 
 src="https://huggingface.co/front/thumbnails/datasets.png"
 width="90" height="90">
+</a>
+  
+<a href="https://cds.cdm.depaul.edu/resources/datasets/">
+<img border="0" title="Hugging Face" 
+src="https://cds.cdm.depaul.edu/wp-content/uploads/2019/05/cropped-logo.png"
+width="90" height="90">
 </a>     
 </p> 
