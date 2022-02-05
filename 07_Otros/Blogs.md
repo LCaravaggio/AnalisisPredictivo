@@ -23,4 +23,10 @@ width="90" height="90">
 src="https://miro.medium.com/max/800/1*sHhtYhaCe2Uc3IU0IgKwIQ.png"
 width="90" height="90">
 </a>
+  
+<a href="https://machinelearningmastery.com/">
+<img border="0" title="Machine Learning Mastery" 
+src="https://machinelearningmastery.com/wp-content/uploads/2016/09/icon-150x150.png"
+width="90" height="90">
+</a>  
 </p> 
