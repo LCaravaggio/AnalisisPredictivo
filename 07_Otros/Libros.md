@@ -234,6 +234,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13407
 <a href="https://probability4datascience.com/">
 <img border="0" title="Introduction to Probability for Data Science" 
 src="https://probability4datascience.com/pix/cover.png" width="86" height="133.3">
+</a> 
+<a href="https://www.goodreads.com/book/show/51763086-essential-math-for-data-science?ac=1&from_search=true&qid=vLydxZ2Ej4&rank=1">
+<img border="0" title="Essential Math for Data Science" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620715594l/51763086.jpg" width="86" height="133.3">
 </a>  
 </p>
 
