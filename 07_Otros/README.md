@@ -7,3 +7,4 @@
 ## Más código
 * [XGBoost](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/07_Otros/xgboost.py)
 * [TabNet](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/07_Otros/TabNet.ipynb)
+* [LightGBM](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/07_Otros/LightGBM.ipynb)
