@@ -12,5 +12,5 @@
 * [Catboost](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/04_Árboles/Catboost.ipynb)
 * [Juego apuestas](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/04_%C3%81rboles/Juego_Apuestas.ipynb)
 
-### Externos
+### Enlaces Externos
 * [Catboost](https://github.com/catboost)
