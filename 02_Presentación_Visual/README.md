@@ -2,7 +2,6 @@
 * [Bar Chart Race](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bar%20Chart%20Race.ipynb)
 * [Data to Viz](https://www.data-to-viz.com/)
 * [Draw Data](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/02_Presentación_Visual/Draw_Data.ipynb)
-* [Library of Statistical Techniques](https://lost-stats.github.io/)
 
 ### Juego del recreo
 * [Juego del Recreo](https://private.unicog.org/msm/graphicacy/exp.html?sp)
