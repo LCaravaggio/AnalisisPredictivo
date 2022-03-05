@@ -14,3 +14,7 @@
 
 ### Enlaces Externos
 * [Catboost](https://github.com/catboost)
+
+
+### Juego recreo
+* [Akinator](https://es.akinator.com/game)
