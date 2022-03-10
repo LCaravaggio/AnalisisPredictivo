@@ -12,4 +12,6 @@
 
 ### Videos
 * [StatQuest - SVM](https://www.youtube.com/watch?v=efR1C6CvhmE&t=5s)
+* [Patrick Winston](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+
 
