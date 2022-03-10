@@ -10,3 +10,6 @@
 ### Enlaces externos
 * [CuML](https://docs.rapids.ai/api/cuml/stable/)
 
+### Videos
+* [StatQuest - SVM](https://www.youtube.com/watch?v=efR1C6CvhmE&t=5s)
+
