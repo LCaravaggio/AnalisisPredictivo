@@ -164,7 +164,7 @@ width="90" height="90">
   
 <a href="https://www.economia.gob.ar/datos/">
 <img border="0" title="Papers With Code" 
-src="https://www.economia.gob.ar/datos/img/argentinagob-2.svg"
+src="https://www.argentina.gob.ar/sites/default/files/min_economia.png"
 width="90" height="90">
 </a>  
 </p> 
