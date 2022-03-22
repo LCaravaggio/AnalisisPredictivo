@@ -9,6 +9,7 @@
 ### Extras
 * [Curso de Deep Learning Geométrico](https://geometricdeeplearning.com/lectures/)
 * [Curso GIS](https://automating-gis-processes.github.io/CSC18/)
+* [Datos Georeferenciados con Geopandas](https://github.com/LCaravaggio/mapa_pobreza/blob/main/Mapa.ipynb)
 * [Intro a Neo4j](https://www.youtube.com/watch?v=BcgXw06lSIo&t=807s)
 * [What does 2022 hold for Geometric & Graph ML?](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc)
 
