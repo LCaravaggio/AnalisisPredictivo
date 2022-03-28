@@ -1,6 +1,7 @@
 ## Presentación Visual
 * [Bar Chart Race](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bar%20Chart%20Race.ipynb)
 * [Data to Viz](https://www.data-to-viz.com/)
+* [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday)
 * [Draw Data](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/02_Presentación_Visual/Draw_Data.ipynb)
 
 ### Juego del recreo
