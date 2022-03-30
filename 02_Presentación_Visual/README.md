@@ -1,8 +1,14 @@
 ## Presentación Visual
-* [Bar Chart Race](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bar%20Chart%20Race.ipynb)
+
+### Código
 * [Data to Viz](https://www.data-to-viz.com/)
-* [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday)
 * [Draw Data](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/02_Presentación_Visual/Draw_Data.ipynb)
+* [Datos Georeferenciados con Geopandas](https://github.com/LCaravaggio/mapa_pobreza/blob/main/Mapa.ipynb)
+* [Bar Chart Race](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bar%20Chart%20Race.ipynb)
+
+### Visulizaciones interesantes
+* [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday)
+* [Visual Capitalist](https://www.visualcapitalist.com/)
 
 ### Juego del recreo
 * [Juego del Recreo](https://private.unicog.org/msm/graphicacy/exp.html?sp)
@@ -10,7 +16,6 @@
 ### Extras
 * [Curso de Deep Learning Geométrico](https://geometricdeeplearning.com/lectures/)
 * [Curso GIS](https://automating-gis-processes.github.io/CSC18/)
-* [Datos Georeferenciados con Geopandas](https://github.com/LCaravaggio/mapa_pobreza/blob/main/Mapa.ipynb)
 * [Intro a Neo4j](https://www.youtube.com/watch?v=BcgXw06lSIo&t=807s)
 * [What does 2022 hold for Geometric & Graph ML?](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc)
 
