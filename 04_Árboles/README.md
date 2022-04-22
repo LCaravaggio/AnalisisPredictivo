@@ -1,5 +1,8 @@
 ## Árboles de Decisión
 
+### Slides
+* [Árboles de decisión](https://docs.google.com/presentation/d/1DxqJpG0t41zWIAzI0op3LHqINr5NkcEzmhI44S4DXf4/edit?usp=sharing)
+
 ### Ejemplos
 * [Árbol como IF](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/04_Árboles/%C3%81rbol_sencillo.ipynb)
 * [Árbol para Regresión](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/04_Árboles/%C3%81rbol%20Regresi%C3%B3n.ipynb)
