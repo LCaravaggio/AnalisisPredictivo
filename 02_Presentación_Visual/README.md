@@ -1,5 +1,8 @@
 ## Presentación Visual
 
+### Slides
+* [Presentación Visual](https://docs.google.com/presentation/d/1Rg5totHEULDX3AlqIf7qSzswuhqzP4dfhk4G7BFnccI/edit#slide=id.p1)
+
 ### Código
 * [Data to Viz](https://www.data-to-viz.com/)
 * [Draw Data](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/02_Presentación_Visual/Draw_Data.ipynb)
