@@ -8,6 +8,7 @@
 * [Draw Data](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/02_Presentación_Visual/Draw_Data.ipynb)
 * [Datos Georeferenciados con Geopandas](https://github.com/LCaravaggio/mapa_pobreza/blob/main/Mapa.ipynb)
 * [Bar Chart Race](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/Bar%20Chart%20Race.ipynb)
+* [Ejemplo en Bokeh](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/02_Presentaci%C3%B3n_Visual/Bokeh_Example.ipynb)
 
 ### Visulizaciones interesantes
 * [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday)
