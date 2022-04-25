@@ -12,6 +12,7 @@
 
 ### Visulizaciones interesantes
 * [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday)
+* [Nicola Rennie](https://github.com/nrennie/30DayChartChallenge)
 * [Visual Capitalist](https://www.visualcapitalist.com/)
 
 ### Juego del recreo
