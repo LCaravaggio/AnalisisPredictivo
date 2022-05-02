@@ -5,7 +5,7 @@
 
 ### Código
 [Regresión](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/06_SVM/SVR%20con%20RBF.ipynb) </br>
-[Clasificación](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/06_SVM/05_07_Support_Vector_Machines.ipynb) </br>
+[Clasificación](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/06_SVM/05.07-Support-Vector-Machines.ipynb) </br>
 [Detección de Anomalías](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/06_SVM/Detecci%C3%B3n_de_Anomal%C3%ADas.ipynb) </br>
 
 ### Enlaces externos
