@@ -18,3 +18,4 @@
 * [XGBoost Part 2](https://www.youtube.com/watch?v=8b1JEDvenQU)
 * [XGBoost Part 3](https://www.youtube.com/watch?v=ZVFeW798-2I)
 * [XGBoost Part 4](https://www.youtube.com/watch?v=oRrKeUCEbq8)
+* [PCA](https://www.youtube.com/watch?v=HMOI_lkzW08)
