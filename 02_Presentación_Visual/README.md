@@ -14,6 +14,7 @@
 * [Georgios Karamanis](https://github.com/gkaramanis/tidytuesday)
 * [Nicola Rennie](https://github.com/nrennie/30DayChartChallenge)
 * [Visual Capitalist](https://www.visualcapitalist.com/)
+* [Scientific Visualization Book](https://github.com/rougier/scientific-visualization-book)
 
 ### Juego del recreo
 * [Juego del Recreo](https://private.unicog.org/msm/graphicacy/exp.html?sp)
