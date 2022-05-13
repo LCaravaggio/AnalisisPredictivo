@@ -241,7 +241,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/16207
 </a>  
 </p>
 
-Reducción de la dimensionalidad
+## Reducción de la dimensionalidad
 </p>  
 <a href="https://www.goodreads.com/book/show/845510.Nonlinear_Dimensionality_Reduction">
 <img border="0" title="https://www.goodreads.com/book/show/845510.Nonlinear_Dimensionality_Reduction" 
@@ -249,7 +249,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13480
 </a>
 </p>
 
-Procesamiento del Lenguaje Natural
+## Procesamiento del Lenguaje Natural
 </p>  
 <a href="https://www.goodreads.com/book/show/6392569.Natural_Language_Processing_with_Python">
 <img border="0" title="Natural Language Processing with Python" 
