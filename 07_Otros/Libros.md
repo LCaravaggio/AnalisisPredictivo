@@ -49,10 +49,6 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/16315
 <img border="0" title="Data Mining: Practical Machine Learning Tools and Techniques" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388211055l/213031.jpg" width="86" height="133.3">
 </a>
-<a href="https://www.goodreads.com/book/show/213032.Introduction_to_Machine_Learning">
-<img border="0" title="Introduction to Machine Learning" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923543l/213032.jpg" width="86" height="133.3">
-</a>
 </p>
 
 
