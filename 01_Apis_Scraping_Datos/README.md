@@ -5,3 +5,6 @@
 * [Ejemplo API Alphacast](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/01_Apis_Y_Scraping/Ejercicio_Sencillo_Alphacast.ipynb)
 * [Ejemplo API Presupuesto Abierto](https://github.com/LCaravaggio/AnalisisPredictivo/blob/master/01_Apis_Scraping_Datos/API_Presupuesto_Abierto.ipynb)
 * [LOST Stats](https://lost-stats.github.io/)
+
+## Juego del recreo 
+[Python Game](https://www.millionairedev.app/python)
