@@ -116,19 +116,19 @@ width="90" height="90">
   
 <a href="https://www.openml.org/search?type=data">
 <img border="0" title="Open ML" 
-src="https://www.openml.org/img/expdblogo2.png"
+src="https://joaquinvanschoren.github.io/home/images/expdblogo2.png"
 width="90" height="90">
 </a>
   
 <a href="https://www.alphacast.io/datasets">
-<img border="0" title="Open ML" 
+<img border="0" title="Alphacast" 
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3WzVsBG2eG7ONq5KCsT9DV6TyzALlBiVpI_LRoGw28lUU_quCRkDSkVWlzkaiw7DAdU&usqp=CAU"
 width="90" height="90">
 </a>
   
 <a href="https://dados.gov.br/dataset">
-<img border="0" title="Open ML" 
-src="[https://avatars.githubusercontent.com/u/1541824?s=200&v=4](https://storage.scolary.com/storage/file/public/1ef20198-2316-4570-bba3-17c42874b3d5.svg)"
+<img border="0" title="Dados Brasil" 
+src="http://iscinc.github.io/government/assets/img/featured-orgs/dadosgovbr.png"
 width="90" height="90">
 </a>
 
