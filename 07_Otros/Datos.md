@@ -128,7 +128,7 @@ width="90" height="90">
   
 <a href="https://dados.gov.br/dataset">
 <img border="0" title="Open ML" 
-src="https://avatars.githubusercontent.com/u/1541824?s=200&v=4"
+src="[https://avatars.githubusercontent.com/u/1541824?s=200&v=4](https://storage.scolary.com/storage/file/public/1ef20198-2316-4570-bba3-17c42874b3d5.svg)"
 width="90" height="90">
 </a>
 
@@ -165,6 +165,12 @@ width="90" height="90">
 <a href="https://www.economia.gob.ar/datos/">
 <img border="0" title="Papers With Code" 
 src="https://www.argentina.gob.ar/sites/default/files/min_economia.png"
+width="90" height="90">
+</a>
+  
+<a href="https://data.humdata.org/">
+<img border="0" title="Humanitarian Data Exchange" 
+src="https://www.engineeringforchange.org/wp-content/uploads/2020/08/hdx.png"
 width="90" height="90">
 </a>  
 </p> 
