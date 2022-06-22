@@ -19,5 +19,4 @@ Material de apoyo para algunos temas presentados en la materia Análisis Predict
 * [Regresión Lineal](https://docs.google.com/presentation/d/1MELKMIqsMDmS5LwMnr8soVNR90g8j4GZK6bCBFF17N8/edit?usp=sharing)
 * [Árboles de Decisión](https://docs.google.com/presentation/d/1DxqJpG0t41zWIAzI0op3LHqINr5NkcEzmhI44S4DXf4/edit?usp=sharing)
 * [Support Vector Machines](https://docs.google.com/presentation/d/1orZnj6ymJBJBbZ-s2RoiJCIqdhzNbzN1owwrSpK1Doo/edit?usp=sharing)
-* [NLP](https://docs.google.com/presentation/d/1f2vDZJesUHqn4V8w_C9sRa_pqlFZgayDaJiStkc9zWA/edit?usp=sharing)
 
