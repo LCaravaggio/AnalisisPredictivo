@@ -2,7 +2,7 @@
 
 # Análisis Predictivo
 
-Material de apoyo para algunos temas presentados en la materia Análisis Predictivo de la [Licenciatura en Analítica Social y Empresarial del ITBA](https://www.itba.edu.ar/grado/analitica-empresarial-y-social). 
+Material de apoyo para algunos temas presentados en la materia Análisis Predictivo de la [Licenciatura en Analítica (Data Science) del ITBA](https://www.itba.edu.ar/grado/analitica-empresarial-y-social). 
 
 ## Índice
 * [Datos, APIs y Scraping](https://github.com/LCaravaggio/AnalisisPredictivo/tree/master/01_Apis_Scraping_Datos)
