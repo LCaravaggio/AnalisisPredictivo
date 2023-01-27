@@ -9,6 +9,10 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13877
 <img border="0" title="An Introduction to Statistical Learning" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385132472l/17397466.jpg" width="86" height="133.3">
 </a>
+<a href="https://www.goodreads.com/book/show/43190851-the-hundred-page-machine-learning-book">
+<img border="0" title="The Hundred-Page Machine Learning Book" alt="The Hundred-Page Machine Learning Book" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546285613i/43190851.jpg" width="86" height="133.3">
+</a>
 <a href="https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow">
 <img border="0" title="Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow" alt="Finding Groups in Data" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571123692l/40363665.jpg" width="86" height="133.3">
