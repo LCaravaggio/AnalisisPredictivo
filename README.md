@@ -14,10 +14,10 @@ Material de apoyo para algunos temas presentados en la materia Análisis Predict
 * [Otros](https://github.com/LCaravaggio/AnalisisPredictivo/tree/master/07_Otros)
 
 ## Slides
+* [Intro](https://docs.google.com/presentation/d/1GdmcFAjPJlD_33KMYuvf4wPHOXVazBivFAoqkAushmM/edit?usp=sharing)
 * [Datos, APIs y Scraping](https://docs.google.com/presentation/d/1LJ32k889JxY3c9cViWLfKgLmImBnhAl3OdNdF10NFiU/edit?usp=sharing)
 * [Presentación Visual](https://docs.google.com/presentation/d/1iPAzjFEh8rzcuNEqbSkH1jvvcKCGfJ6GZCVVz56yr98/edit?usp=sharing)
 * [Regresión Lineal](https://docs.google.com/presentation/d/1MELKMIqsMDmS5LwMnr8soVNR90g8j4GZK6bCBFF17N8/edit?usp=sharing)
 * [Árboles de Decisión](https://docs.google.com/presentation/d/1DxqJpG0t41zWIAzI0op3LHqINr5NkcEzmhI44S4DXf4/edit?usp=sharing)
 * [Support Vector Machines](https://docs.google.com/presentation/d/1orZnj6ymJBJBbZ-s2RoiJCIqdhzNbzN1owwrSpK1Doo/edit?usp=sharing)
 * [Reducción de la dimensionalidad](https://docs.google.com/presentation/d/1eVFZjCClltOt26LC7rzzrX3N3anCi4wHzvZu-Ei62HA/edit?usp=sharing)
-
