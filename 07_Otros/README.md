@@ -14,7 +14,3 @@
 * [XGBoost Part 2](https://www.youtube.com/watch?v=8b1JEDvenQU)
 * [XGBoost Part 3](https://www.youtube.com/watch?v=ZVFeW798-2I)
 * [XGBoost Part 4](https://www.youtube.com/watch?v=oRrKeUCEbq8)
-* [PCA - Main ideas](https://www.youtube.com/watch?v=HMOI_lkzW08)
-* [PCA](https://www.youtube.com/watch?v=FgakZw6K1QQ)
-* [t-SNE](https://www.youtube.com/watch?v=NEaUSP4YerM)
-* [MDS y PCoA](https://www.youtube.com/watch?v=GEn-_dAyYME)
