@@ -68,7 +68,7 @@ width="90" height="90">
 
 <a href="https://datos.gob.es/en/catalogo">
 <img border="0" title="Datos.gob.es" 
-src="https://pbs.twimg.com/profile_images/1271028171333402625/BMMX8JZV_400x400.jpg"
+src="https://datos.gob.es/images/test_site/logo.svg"
 width="90" height="90">
 </a>  
   
@@ -173,4 +173,10 @@ width="90" height="90">
 src="https://www.engineeringforchange.org/wp-content/uploads/2020/08/hdx.png"
 width="90" height="90">
 </a>  
+
+<a href="https://github.com/awslabs/open-data-registry">
+<img border="0" title="open-data-registry" 
+src="https://avatars.githubusercontent.com/u/3299148?s=48&v=4"
+width="90" height="90">
+</a> 
 </p> 
