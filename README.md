@@ -17,6 +17,7 @@ Material de apoyo para algunos temas presentados en la materia Análisis Predict
 <details>
 <summary>Old Slides</summary>
 <br>
-* [Presentación Visual](https://docs.google.com/presentation/d/1iPAzjFEh8rzcuNEqbSkH1jvvcKCGfJ6GZCVVz56yr98/edit?usp=sharing)
-* [Regresión Lineal](https://docs.google.com/presentation/d/1MELKMIqsMDmS5LwMnr8soVNR90g8j4GZK6bCBFF17N8/edit?usp=sharing)  
+  
+  - [Presentación Visual](https://docs.google.com/presentation/d/1iPAzjFEh8rzcuNEqbSkH1jvvcKCGfJ6GZCVVz56yr98/edit?usp=sharing)
+  - [Regresión Lineal](https://docs.google.com/presentation/d/1MELKMIqsMDmS5LwMnr8soVNR90g8j4GZK6bCBFF17N8/edit?usp=sharing)
 </details>
