@@ -5,9 +5,9 @@ Acá va una serie de libros que pueden ser útiles...
 <img border="0" title="The Elements of Statistical Learning" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387738132l/148009.jpg" width="86" height="133.3">
 </a>
-<a href="https://www.goodreads.com/book/show/17397466-an-introduction-to-statistical-learning">
-<img border="0" title="An Introduction to Statistical Learning" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385132472l/17397466.jpg" width="86" height="133.3">
+<a href="https://www.statlearning.com/">
+<img border="0" title="An Introduction to Statistical Learning with applications in Python" 
+src="https://images.squarespace-cdn.com/content/v1/5ff2adbe3fe4fe33db902812/8b373fbe-d1b4-4351-b803-0d3cd5bba1b0/ISLP_cover.png" width="86" height="133.3">
 </a>
 <a href="https://www.goodreads.com/book/show/43190851-the-hundred-page-machine-learning-book">
 <img border="0" title="The Hundred-Page Machine Learning Book" alt="The Hundred-Page Machine Learning Book" 
