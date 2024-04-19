@@ -15,6 +15,7 @@
 * [Nicola Rennie](https://github.com/nrennie/30DayChartChallenge)
 * [Visual Capitalist](https://www.visualcapitalist.com/)
 * [Scientific Visualization Book](https://github.com/rougier/scientific-visualization-book)
+* [Laura Navarro](https://laura-navarro-s.github.io/index.html)
 
 ### Juego del recreo
 * [Juego del Recreo](https://private.unicog.org/msm/graphicacy/exp.html?sp)
