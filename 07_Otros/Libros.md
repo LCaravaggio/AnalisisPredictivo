@@ -248,6 +248,14 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/16207
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545663534i/43331705.jpg" width="86" height="133.3">
 </a> 
 </p>
+
+## Reducción de la dimensionalidad
+</p>  
+<a href="https://www.goodreads.com/book/show/845510.Nonlinear_Dimensionality_Reduction">
+<img border="0" title="https://www.goodreads.com/book/show/845510.Nonlinear_Dimensionality_Reduction" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348010757l/845510.jpg" width="86" height="133.3">
+</a>
+</p>
   
 ## Beyond the scope of the course
 <p>
@@ -292,14 +300,6 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13561
 
 <p>
 <p>  
-
-Reducción de la dimensionalidad
-</p>  
-<a href="https://www.goodreads.com/book/show/845510.Nonlinear_Dimensionality_Reduction">
-<img border="0" title="https://www.goodreads.com/book/show/845510.Nonlinear_Dimensionality_Reduction" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348010757l/845510.jpg" width="86" height="133.3">
-</a>
-</p>
 
 Procesamiento del Lenguaje Natural
 </p>  
