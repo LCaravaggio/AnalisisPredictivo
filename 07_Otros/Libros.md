@@ -303,13 +303,17 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/13561
 
 Procesamiento del Lenguaje Natural
 </p>  
-<a href="https://www.goodreads.com/book/show/6392569.Natural_Language_Processing_with_Python">
-<img border="0" title="Natural Language Processing with Python" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834784l/6392569.jpg" width="86" height="133.3">
-</a>
 <a href="https://www.goodreads.com/book/show/908047.Speech_and_Language_Processing">
 <img border="0" title="Speech and Language Processing" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391032539l/908047.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/57866242-text-as-data">
+<img border="0" title="Text as Data: A New Framework for Machine Learning and the Social Sciences" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1623113297i/57866242.jpg" width="86" height="133.3">
+</a>
+<a href="https://www.goodreads.com/book/show/6392569.Natural_Language_Processing_with_Python">
+<img border="0" title="Natural Language Processing with Python" 
+src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834784l/6392569.jpg" width="86" height="133.3">
 </a>
 <a href="https://www.goodreads.com/book/show/6179005-analyzing-linguistic-data">
 <img border="0" title="Analyzing Linguistic Data" 
