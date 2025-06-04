@@ -11,6 +11,7 @@ Material de apoyo para algunos temas presentados en la materia Análisis Predict
 * [Árboles de Decisión](https://docs.google.com/presentation/d/1DxqJpG0t41zWIAzI0op3LHqINr5NkcEzmhI44S4DXf4/edit?usp=sharing)
 * [Support Vector Machines](https://docs.google.com/presentation/d/1orZnj6ymJBJBbZ-s2RoiJCIqdhzNbzN1owwrSpK1Doo/edit?usp=sharing)
 * [Reducción de la dimensionalidad](https://docs.google.com/presentation/d/1eVFZjCClltOt26LC7rzzrX3N3anCi4wHzvZu-Ei62HA/edit?usp=sharing)
+* [Intro a Redes para Datos estructurados](https://docs.google.com/presentation/d/1HiKRSxPRGGDYINDY5jTs3v-nF5mXgtsTHqn3hg_-Gvw)
 <br>
 <br>
 
