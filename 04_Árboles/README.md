@@ -24,7 +24,7 @@
 * [Akinator](https://es.akinator.com/game)
 
 ### Videos
-* [Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
+* [Decision Trees](https://www.youtube.com/watch?v=_L39rN6gz7Y)
 * [Random Forests Part 1](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
 * [Random Forests Part 2](https://www.youtube.com/watch?v=nyxTdL_4Q-Q)
 * [Gradient Boost Part 1](https://www.youtube.com/watch?v=3CC4N4z3GJc)
