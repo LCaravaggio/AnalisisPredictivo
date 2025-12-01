@@ -53,6 +53,12 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/16315
 <img border="0" title="Data Mining: Practical Machine Learning Tools and Techniques" 
 src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388211055l/213031.jpg" width="86" height="133.3">
 </a>
+</a>
+<a href="https://www.goodreads.com/book/show/227858423-machine-learning-for-tabular-data">
+<img border="0" title="Machine Learning for Tabular Data" 
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739256001i/227858423.jpg" width="86" height="133.3">
+</a>
+  
 </p>
 
 
@@ -84,7 +90,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/14039
 </a>
 <a href="https://www.goodreads.com/book/show/23345558-en-el-enjambre">
 <img border="0" title="En el enjambre" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412827540l/23345558.jpg" width="86" height="133.3">
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1412827540i/23345558.jpg" width="86" height="133.3">
 </a>
 <a href="https://www.goodreads.com/book/show/46141625-todo-el-mundo-miente">
 <img border="0" title="Todo el mundo miente" 
@@ -276,7 +282,7 @@ src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/15290
 </a>
 <a href="https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning">
 <img border="0" title="Pattern Recognition and Machine Learning" 
-src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347401011l/55881.jpg" width="86" height="133.3">
+src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1347401011i/55881.jpg" width="86" height="133.3">
 </a>
 <a href="https://d2l.ai/">
 <img border="0" title="Dive into Deep Learning" 
