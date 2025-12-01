@@ -2,7 +2,7 @@
 
 # Análisis Predictivo
 
-Material de apoyo para algunos temas presentados en la materia Análisis Predictivo de la [Licenciatura en Analítica (Data Science) del ITBA](https://www.itba.edu.ar/grado/analitica-empresarial-y-social). 
+Material de apoyo para los temas que doy yo en la materia Análisis Predictivo de la [Licenciatura en Analítica (Data Science) del ITBA](https://www.itba.edu.ar/grado/analitica-empresarial-y-social). 
 
 ## Slides
 * [Intro](https://docs.google.com/presentation/d/1GdmcFAjPJlD_33KMYuvf4wPHOXVazBivFAoqkAushmM/edit?usp=sharing)
