@@ -14,6 +14,7 @@
 [Simulador 2](https://cs.stanford.edu/~karpathy/svmjs/demo/) </br>
 
 ### Videos
+[Andrew Ng](https://www.youtube.com/watch?v=lDwow4aOrtg) </br> 
 [Patrick Winston](https://www.youtube.com/watch?v=_PwhiWxHK8o) </br>
 [StatQuest](https://www.youtube.com/watch?v=efR1C6CvhmE)
 
