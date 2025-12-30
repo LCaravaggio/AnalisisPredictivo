@@ -14,8 +14,7 @@
 [Simulador 2](https://cs.stanford.edu/~karpathy/svmjs/demo/) </br>
 
 ### Videos
-[Andrew Ng](https://www.youtube.com/watch?v=lDwow4aOrtg) </br> 
+[Andrew Ng (Primera parte: obtención del clasificador óptimo)](https://www.youtube.com/watch?v=lDwow4aOrtg) </br> 
+[Andrew Ng (Segunda parte: kernels e inseparabilidad lineal)](https://www.youtube.com/watch?v=8NYoQiRANpg) </br> 
 [Patrick Winston](https://www.youtube.com/watch?v=_PwhiWxHK8o) </br>
 [StatQuest](https://www.youtube.com/watch?v=efR1C6CvhmE)
-
-
