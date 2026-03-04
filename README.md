@@ -14,8 +14,14 @@ Material de apoyo para los temas que doy yo en la materia Análisis Predictivo d
 * [Intro a Redes para Datos estructurados](https://docs.google.com/presentation/d/1HiKRSxPRGGDYINDY5jTs3v-nF5mXgtsTHqn3hg_-Gvw)
 * [Competencias](https://docs.google.com/presentation/d/1l6A1dSdrZbL2lEISIopsUdwbilz3x8f6dYg6Om_QFBA/edit?usp=sharing)
 <br>
+
+## Cronograma y consignas
+* [Cronograma alumnos](https://docs.google.com/spreadsheets/d/1NPAgn7THh8uoLu03eKgtzyYZvFV76fYVvQKJsZIPFYk/edit?usp=sharing)
+* [Consignas TPs](https://docs.google.com/document/d/1RPUA5hoBOI9b4Ca7cz1C-9tZokGKgYFsQKuMvywDFG8/edit?tab=t.0)
+
 <br>
 
+## Otros
 <details>
 <summary>Old Slides</summary>
 <br>
