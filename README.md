@@ -16,9 +16,8 @@ Material de apoyo para los temas que doy yo en la materia Análisis Predictivo d
 
 ## Cronograma y consignas
 * [Cronograma alumnos](https://docs.google.com/spreadsheets/d/1NPAgn7THh8uoLu03eKgtzyYZvFV76fYVvQKJsZIPFYk/edit?usp=sharing)
-* [Consignas TPs](https://docs.google.com/document/d/1RPUA5hoBOI9b4Ca7cz1C-9tZokGKgYFsQKuMvywDFG8/edit?tab=t.0)
-
-<br>
+* [Consignas TPs](
+https://docs.google.com/document/d/10n_PqVq_QLdQLxNf_wRIvNmAbZ6-efvmdRz0K0UWByc/edit?usp=drivesdk)<br>
 
 ## Otros
 <details>
